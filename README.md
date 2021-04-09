@@ -1,1 +1,5 @@
-# google-home
+# Google-home
+
+### Assignment link
+
+https://okolipraiz.github.io/google-home/
